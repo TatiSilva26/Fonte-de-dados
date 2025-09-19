@@ -6,5 +6,5 @@ https://github.com/TatiSilva26/Fonte-de-dados/blob/main/Apresentac%CC%A7a%CC%83o
 
 ##Atividade2: Manipulação de dados utilizando a plataforma office 360 - Excel para resolução de questões criadas a fim de adquirir conhecimentos de fórmulas.
 
-[Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416503/Atividade.2.-.Banco.de.dados.xlsx)
-[Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416505/Banco_de_dados_explicacao_formulas.pdf)
+Excel: [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416503/Atividade.2.-.Banco.de.dados.xlsx)
+PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416505/Banco_de_dados_explicacao_formulas.pdf)
