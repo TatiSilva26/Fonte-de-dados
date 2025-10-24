@@ -11,5 +11,7 @@ PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachment
 
 <img width="657" height="821" alt="image" src="https://github.com/user-attachments/assets/e2878be6-c907-45ce-b82c-a9fd6c912746" />
 
+
 ##Atividade3: Introdução ao Power BI - Utilização de funções do SOftware.
+
 <img width="1228" height="736" alt="image" src="https://github.com/user-attachments/assets/9e991e3e-3e66-4f30-a8dc-6f9fc51108df" />
