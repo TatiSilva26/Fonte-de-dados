@@ -15,3 +15,7 @@ PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachment
 ##Atividade3: Introdução ao Power BI - Utilização de funções do Software.
 
 <img width="1228" height="736" alt="image" src="https://github.com/user-attachments/assets/9e991e3e-3e66-4f30-a8dc-6f9fc51108df" />
+
+##Atividade4: Modelando Power BI - Visualização de exportação nos estados brasileiros.
+
+<img width="850" height="682" alt="image" src="https://github.com/user-attachments/assets/cafc376f-e019-4fdc-9193-f457af3e06d0" />
