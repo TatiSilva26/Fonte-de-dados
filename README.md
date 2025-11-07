@@ -8,6 +8,7 @@ https://github.com/TatiSilva26/Fonte-de-dados/blob/main/Apresentac%CC%A7a%CC%83o
 
 Excel: [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416503/Atividade.2.-.Banco.de.dados.xlsx)
 PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416505/Banco_de_dados_explicacao_formulas.pdf)
+
 <img width="1337" height="617" alt="image" src="https://github.com/user-attachments/assets/de48b87e-d565-4827-9fd5-e733d7c8b6da" />
 
 
