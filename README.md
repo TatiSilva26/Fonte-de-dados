@@ -24,6 +24,10 @@ PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachment
 
 <img width="850" height="682" alt="image" src="https://github.com/user-attachments/assets/cafc376f-e019-4fdc-9193-f457af3e06d0" />
 
-## Atividade4: Analisando dados Ice Cream
+## Atividade4: Regressão linear Ice Cream - Kaggle
+
+Arquivo excel:[Ice Cream.xlsx](https://github.com/user-attachments/files/23404871/Ice.Cream.xlsx)
 
 <img width="1006" height="603" alt="image" src="https://github.com/user-attachments/assets/f6be5ea5-be1f-432f-b8a1-2c17af07258a" />
+<img width="966" height="575" alt="image" src="https://github.com/user-attachments/assets/720844c0-38d4-4707-876b-1237ffdc325c" />
+
