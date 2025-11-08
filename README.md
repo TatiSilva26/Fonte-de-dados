@@ -36,3 +36,5 @@ Arquivo excel:[Ice Cream.xlsx](https://github.com/user-attachments/files/2340487
 
 <img width="1762" height="349" alt="image" src="https://github.com/user-attachments/assets/10fcab05-0ce4-41b0-a64d-509c2f4d0072" />
 <img width="976" height="557" alt="image" src="https://github.com/user-attachments/assets/18177542-dbf1-4f51-9385-b67278385da3" />
+<img width="1176" height="739" alt="image" src="https://github.com/user-attachments/assets/ba1e680a-5c49-428e-9484-175f852e6ff4" />
+
