@@ -7,8 +7,6 @@ https://github.com/TatiSilva26/Fonte-de-dados/blob/main/Apresentac%CC%A7a%CC%83o
 
 ## Atividade 2: Manipulação de dados utilizando a plataforma office 360 - Excel para resolução de questões criadas a fim de adquirir conhecimentos de fórmulas.
 
-Excel: [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416503/Atividade.2.-.Banco.de.dados.xlsx)
-PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416505/Banco_de_dados_explicacao_formulas.pdf)
 
 <img width="1337" height="617" alt="image" src="https://github.com/user-attachments/assets/de48b87e-d565-4827-9fd5-e733d7c8b6da" />
 
@@ -25,8 +23,6 @@ PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachment
 <img width="850" height="682" alt="image" src="https://github.com/user-attachments/assets/cafc376f-e019-4fdc-9193-f457af3e06d0" />
 
 ## Atividade 5: Regressão linear Ice Cream - Kaggle
-
-Arquivo excel:[Ice Cream.xlsx](https://github.com/user-attachments/files/23404871/Ice.Cream.xlsx)
 
 <img width="1006" height="603" alt="image" src="https://github.com/user-attachments/assets/f6be5ea5-be1f-432f-b8a1-2c17af07258a" />
 <img width="966" height="575" alt="image" src="https://github.com/user-attachments/assets/720844c0-38d4-4707-876b-1237ffdc325c" />
