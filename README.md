@@ -32,4 +32,7 @@ Arquivo excel:[Ice Cream.xlsx](https://github.com/user-attachments/files/2340487
 <img width="966" height="575" alt="image" src="https://github.com/user-attachments/assets/720844c0-38d4-4707-876b-1237ffdc325c" />
 <img width="981" height="858" alt="image" src="https://github.com/user-attachments/assets/478d3aa4-4aa7-4aa6-98a1-81e3dc5f321c" />
 
+## Atividade 6: Experiência x salário
 
+<img width="1762" height="349" alt="image" src="https://github.com/user-attachments/assets/10fcab05-0ce4-41b0-a64d-509c2f4d0072" />
+<img width="976" height="557" alt="image" src="https://github.com/user-attachments/assets/18177542-dbf1-4f51-9385-b67278385da3" />
