@@ -36,5 +36,7 @@ https://github.com/TatiSilva26/Fonte-de-dados/blob/main/Apresentac%CC%A7a%CC%83o
 
 ## Atividade avaliativa: Pesquisa Industrial Mensal
 
+Criando um dashboard com dados.
+
 https://github.com/user-attachments/assets/81680867-35a5-4fee-bd85-00ea22e70eba
 
