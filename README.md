@@ -34,3 +34,7 @@ https://github.com/TatiSilva26/Fonte-de-dados/blob/main/Apresentac%CC%A7a%CC%83o
 <img width="976" height="557" alt="image" src="https://github.com/user-attachments/assets/18177542-dbf1-4f51-9385-b67278385da3" />
 <img width="1176" height="739" alt="image" src="https://github.com/user-attachments/assets/ba1e680a-5c49-428e-9484-175f852e6ff4" />
 
+## Atividade avaliativa: Pesquisa Industrial Mensal
+
+https://github.com/user-attachments/assets/81680867-35a5-4fee-bd85-00ea22e70eba
+
